@@ -51,7 +51,7 @@ Minha base é operação: manter servidores de clientes funcionando, entender po
       <p><code>Bash</code> <code>Linux</code> <code>cron</code> <code>Discord</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/luiz-kevenin/nexfinance">NexFinance</a></h3>
+      <h3><a href="https://github.com/luiz-kevenin/Nexfinance">NexFinance</a></h3>
       <p>SaaS de gestão de devedores e cobrança para pequenos negócios, em produção. Projeto independente, do desenvolvimento ao deploy em containers Docker numa instância AWS EC2.</p>
       <p><code>Next.js</code> <code>PostgreSQL</code> <code>Docker</code> <code>AWS EC2</code></p>
     </td>
