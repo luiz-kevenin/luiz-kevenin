@@ -46,7 +46,7 @@ Minha base é operação: manter servidores de clientes funcionando, entender po
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/luiz-kevenin/disk-alert">Monitoramento de disco</a></h3>
+      <h3><a href="https://github.com/luiz-kevenin/Monitoramento-de-disco">Monitoramento de disco</a></h3>
       <p>Monitoramento de uso de disco em Bash com alertas via webhook do Discord. Dois modos de operação (relatório programado e detecção de crescimento), controle de estado entre execuções e lock contra execução concorrente.</p>
       <p><code>Bash</code> <code>Linux</code> <code>cron</code> <code>Discord</code></p>
     </td>
